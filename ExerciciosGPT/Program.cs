@@ -1,8 +1,8 @@
-﻿using ExerciciosGPT.Entidades;
-using ExerciciosGPT.ConsumindoApis;
+﻿using ObjetosWebApi.Entidades;
+using ObjetosWebApi.ConsumindoApis;
 
 
-namespace ExerciciosGPT;
+namespace ObjetosWebApi;
 
 public class Program
 {

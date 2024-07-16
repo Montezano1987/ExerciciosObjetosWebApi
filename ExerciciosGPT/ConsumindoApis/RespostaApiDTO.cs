@@ -2,7 +2,7 @@
 
 using System.Text.Json.Serialization;
 
-namespace ExerciciosGPT.ConsumindoApis
+namespace ObjetosWebApi.ConsumindoApis
 {
     public class RespostaApiDTO
 

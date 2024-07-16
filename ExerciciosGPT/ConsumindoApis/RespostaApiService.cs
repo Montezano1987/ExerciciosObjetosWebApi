@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Text.Json;
 
-namespace ExerciciosGPT.ConsumindoApis
+namespace ObjetosWebApi.ConsumindoApis
 
 {
     public static class RespostaApiService

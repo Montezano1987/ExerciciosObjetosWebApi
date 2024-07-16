@@ -1,6 +1,6 @@
 ﻿
 
-namespace ExerciciosGPT.Entidades
+namespace ObjetosWebApi.Entidades
 {
     public interface ICalculadora
     {

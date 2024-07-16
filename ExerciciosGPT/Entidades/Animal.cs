@@ -1,5 +1,5 @@
 ﻿
-namespace ExerciciosGPT.Entidades
+namespace ObjetosWebApi.Entidades
 {
     public class Animal
 
